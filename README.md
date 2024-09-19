@@ -1,2 +1,2 @@
 # GitHub-Training
-File editing.
+Editing the file.
